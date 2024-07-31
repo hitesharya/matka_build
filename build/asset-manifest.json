@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60a2fa7d.css",
+    "main.js": "/static/js/main.28a1eede.js",
+    "static/js/453.181aee46.chunk.js": "/static/js/453.181aee46.chunk.js",
+    "static/media/JK_logo.png": "/static/media/JK_logo.13db6952ab73020fa3fb.png",
+    "index.html": "/index.html",
+    "static/media/logo-helper.svg": "/static/media/logo-helper.cc1c4e5050ea33f69e67abb0ee4684b0.svg",
+    "main.60a2fa7d.css.map": "/static/css/main.60a2fa7d.css.map",
+    "main.28a1eede.js.map": "/static/js/main.28a1eede.js.map",
+    "453.181aee46.chunk.js.map": "/static/js/453.181aee46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60a2fa7d.css",
+    "static/js/main.28a1eede.js"
+  ]
+}
